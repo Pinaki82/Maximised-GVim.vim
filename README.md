@@ -1,4 +1,4 @@
-# maximised_gvim.vim
+# Maximised-GVim.vim
 Maximise GVim window at startup.
 
 A Vim plugin.
