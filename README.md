@@ -11,4 +11,6 @@ Dependencies:
 
 2. (b) GVim 8.01 on Linux
 
-3. `wmctrl` on Linux. On Ubuntu or any derivative OS, install it with the command: `sudo apt install wmctrl`
+3. `wmctrl` on Linux. On Ubuntu or any derivative OS, install it with the command:
+
+`sudo apt install wmctrl`
